@@ -1,0 +1,10 @@
+header p{
+	font-size : 1.3rem;
+	margin:auto;
+	color:blue;
+}
+body header table {
+	width: 500px;
+	border-collapse: separate;
+}
+
