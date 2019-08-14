@@ -3,7 +3,7 @@ header p{
 	margin:auto;
 	color:blue;
 }
-body header table {
+main table {
 	width: 500px;
 	border-collapse: separate;
 }
